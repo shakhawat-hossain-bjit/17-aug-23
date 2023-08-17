@@ -1,5 +1,9 @@
 This is the begining of our practise
 change at 10:47
 This is Zahid's first line
+<<<<<<< HEAD
 THE TIME IS 1:31
+=======
+This is Zahid's second line
+>>>>>>> development
 This is Shakhawat Hossain first line
